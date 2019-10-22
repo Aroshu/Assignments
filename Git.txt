@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git remote add cat <your-git-url>
+
+git commit -m "<your-message-here>"
+
+git push cat master
